@@ -35,7 +35,7 @@ This method was used to see if we can get a better prediction from the defaulted
 This chart shows the disctribution of patients with heart disease by age. As we can see we don't have a normal distribution on age - Most of our patients are in Late Middle age. We have few patients in Late Adulthood as well as in Early Middle age. According to research Late Adulthood (65 and above) are more at risk that any other age group. However, on this graph we see that the peak is at about age 58.
    
 <p align="center">  
-<img src=https://user-images.githubusercontent.com/125017784/235902476-000f399a-1f32-44cc-a83f-e9d32e80c3a1.png>
+<img src=HF_Ages.html>
 </p>
 
 Typical angina (ATA) or Angina Pectoris is when heart does not get enough oxygenated blood because of blockage. This means that we expect more patients to have this symptom than others. This Bar graph shows the types of chest pain the patients with Heart Disease have. Surprisingly, most of our patients with the disease shows to have an Asymptomatic Chest Pain. Non-Anginal Pain(NAP) comes second. Typical Angina and Atypical Angina have almost the same ratio and there is about 25 patients with this Chest Pain. It seems like most of our patients with Heart Disease doesn't show much Angina than what I expected them to. 
