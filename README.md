@@ -28,9 +28,9 @@ This method was used to see if we can get a better prediction from the defaulted
    
 # Exploratory Data Analysis:
 
-
-{% include HF_Ages.html %}
-
+<p align="center">
+<img src=https://user-images.githubusercontent.com/125017784/235902485-fa957f24-ecfb-4d77-96f6-114eb5ae8288.png>
+</p>
 
 This chart shows the disctribution of patients with heart disease by age. As we can see we don't have a normal distribution on age - Most of our patients are in Late Middle age. We have few patients in Late Adulthood as well as in Early Middle age. According to research Late Adulthood (65 and above) are more at risk that any other age group. However, on this graph we see that the peak is at about age 58.
    
